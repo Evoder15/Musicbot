@@ -1,0 +1,3 @@
+C:\Users\Evoder\Source\Repos\Musicbot\Musicbot\obj\Debug\Musicbot.njsproj.AssemblyReference.cache
+C:\Users\Evoder\Source\Repos\Musicbot\Musicbot\obj\Debug\Musicbot.njsproj.CoreCompileInputs.cache
+C:\Users\Evoder\Source\Repos\Musicbot\Musicbot\bin\Microsoft.NodejsTools.WebRole.dll
